@@ -1,2 +1,2 @@
 # SFCN
-Spatial Feature Catcher For Image Deblurring
+Superduty Feature Catcher For Image Deblurring
