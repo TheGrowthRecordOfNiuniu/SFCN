@@ -25,7 +25,8 @@ for blurry images in the raw information mechanism. The experimental results on 
 
 ## Result  
 
-![result](https://user-images.githubusercontent.com/71067558/186557466-7af0c529-c5b0-4172-bafa-413831be8bab.JPG)  
+![image](https://user-images.githubusercontent.com/71067558/186558200-012c0356-056d-452d-a96e-deb80c9a54af.png)
+
 
 After training our model in the GoPro training set
 through the training strategy mentioned in Section 4.2, we test the
