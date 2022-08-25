@@ -15,8 +15,10 @@ Network Architecture
 
 Results  
 
-![result](https://user-images.githubusercontent.com/71067558/186551584-d10f1e92-d368-4ffb-97b7-748292602a6e.JPG)  
+![image](https://user-images.githubusercontent.com/71067558/186552391-ed41c926-539c-451d-ac93-783b3caf42e6.png)
 
 As can be seen from the data in the above Table, our model exceeds recent architectures in both PSNR and SSIM. In particular, we test Restormer [29 ] architecture proposed this year on the GoPro dataset. Our architecture (FCN) outperforms Restormer [29 ] 0.400 and 0.011 on PSNR and SSIM, respectively. In particular, the number of model parameters for the Restormer architecture is 26.097M. However, the number of model parameters of our architecture FCN is only 20.309M. Therefore, we successfully achieve the current state of optimal effect in the deblurring field without adding additional parameters. Some visual comparisons are shown in the following figure.  
 
 ![image](https://user-images.githubusercontent.com/71067558/186551886-1d3c05c0-69eb-4997-b9ba-6efb6f5cc493.png)
+
+Please download our paper for more details.
